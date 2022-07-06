@@ -16,6 +16,7 @@ main {
 .content {
   width: 300px;
   background-color: #EEEEEE;
+  padding: 10px;
   position: relative;
 }
 .content-number1 p {
@@ -36,6 +37,7 @@ main {
   width: 300px;
   background-color: #EEEEEE;
   margin: 0 30px;
+  padding: 10px;
   position: relative;
 }
 .content-number2 p {
@@ -48,26 +50,23 @@ main {
 .content-image1 {
   background-image: url(../image/img/flow01.png);
   background-size: cover;
+  background-position: bottom;
   height: 150px;
-  margin: 10px;
 }
 .content-image2 {
   background-image: url(../image/img/flow02.png);
   background-size: cover;
+  background-position: bottom;
   height: 150px;
-  margin: 10px;
 }
 .content-image3 {
   background-image: url(../image/img/flow03.png);
   background-size: cover;
+  background-position: bottom;
   height: 150px;
-  margin: 10px;
 }
 .title {
-  padding: 5px 0;
-}
-p {
-  text-align: center;
+  padding: 15px 0 5px;
 }
 footer {
   width: 100%;
