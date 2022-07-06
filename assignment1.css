@@ -16,11 +16,34 @@ main {
 .content {
   width: 300px;
   background-color: #EEEEEE;
+  position: relative;
+}
+.content-number1 p {
+  background-color: #ff9a4b;
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.content-number3 p {
+  background-color: #ff9a4b;
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 .content-center {
   width: 300px;
   background-color: #EEEEEE;
   margin: 0 30px;
+  position: relative;
+}
+.content-number2 p {
+  background-color: #ff9a4b;
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 .content-image1 {
   background-image: url(../image/img/flow01.png);
@@ -42,6 +65,9 @@ main {
 }
 .title {
   padding: 5px 0;
+}
+p {
+  text-align: center;
 }
 footer {
   width: 100%;
