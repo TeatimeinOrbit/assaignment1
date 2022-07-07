@@ -48,19 +48,19 @@ main {
   left: 0;
 }
 .content-image1 {
-  background-image: url(../image/img/flow01.png);
+  background-image: url(image/img/flow01.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
 }
 .content-image2 {
-  background-image: url(../image/img/flow02.png);
+  background-image: url(image/img/flow02.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
 }
 .content-image3 {
-  background-image: url(../image/img/flow03.png);
+  background-image: url(image/img/flow03.png);
   background-size: cover;
   background-position: bottom;
   height: 150px;
